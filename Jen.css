@@ -1,0 +1,53 @@
+h1 {
+		background-color: black;
+		text-align: center;
+		color:#fff;
+		padding-top: 20px;
+		padding-bottom: 20px;
+		margin-top: 0px;
+		font-size: 48px;
+	}
+	h2{
+		padding-left: 20px;
+		font-size: 36px;
+
+	}
+	p{ color: white; }
+
+	body {
+		background-color: black;
+		width:100%;
+	}
+	 .clear {
+		clear: both;
+	 }
+	#container {
+		background-color: black;
+		width: 100%;
+		border: 50px solid green;
+		height: 100%;
+
+	}
+	#pic { 
+		float: left;
+		padding-left: 22px;
+
+	}
+	#info {
+		
+		width:33%;
+		float: left;
+		margin-left: 20px;
+		font-size: 20px;
+		color: white;
+	}
+
+	#contact {
+	width: 30%;
+	float:left;
+	font-size: 22px;
+	color: white;
+	vertical-align: top;
+	}
+
+	
